@@ -1,0 +1,13 @@
+C:\Users\bryan\source\repos\Ejercicio 2 Desafio Practico\Ejercicio 2 Desafio Practico\bin\Debug\netcoreapp3.1\Ejercicio 2 Desafio Practico.exe
+C:\Users\bryan\source\repos\Ejercicio 2 Desafio Practico\Ejercicio 2 Desafio Practico\bin\Debug\netcoreapp3.1\Ejercicio 2 Desafio Practico.deps.json
+C:\Users\bryan\source\repos\Ejercicio 2 Desafio Practico\Ejercicio 2 Desafio Practico\bin\Debug\netcoreapp3.1\Ejercicio 2 Desafio Practico.runtimeconfig.json
+C:\Users\bryan\source\repos\Ejercicio 2 Desafio Practico\Ejercicio 2 Desafio Practico\bin\Debug\netcoreapp3.1\Ejercicio 2 Desafio Practico.runtimeconfig.dev.json
+C:\Users\bryan\source\repos\Ejercicio 2 Desafio Practico\Ejercicio 2 Desafio Practico\bin\Debug\netcoreapp3.1\Ejercicio 2 Desafio Practico.dll
+C:\Users\bryan\source\repos\Ejercicio 2 Desafio Practico\Ejercicio 2 Desafio Practico\bin\Debug\netcoreapp3.1\Ejercicio 2 Desafio Practico.pdb
+C:\Users\bryan\source\repos\Ejercicio 2 Desafio Practico\Ejercicio 2 Desafio Practico\obj\Debug\netcoreapp3.1\Ejercicio 2 Desafio Practico.csprojAssemblyReference.cache
+C:\Users\bryan\source\repos\Ejercicio 2 Desafio Practico\Ejercicio 2 Desafio Practico\obj\Debug\netcoreapp3.1\Ejercicio 2 Desafio Practico.AssemblyInfoInputs.cache
+C:\Users\bryan\source\repos\Ejercicio 2 Desafio Practico\Ejercicio 2 Desafio Practico\obj\Debug\netcoreapp3.1\Ejercicio 2 Desafio Practico.AssemblyInfo.cs
+C:\Users\bryan\source\repos\Ejercicio 2 Desafio Practico\Ejercicio 2 Desafio Practico\obj\Debug\netcoreapp3.1\Ejercicio 2 Desafio Practico.csproj.CoreCompileInputs.cache
+C:\Users\bryan\source\repos\Ejercicio 2 Desafio Practico\Ejercicio 2 Desafio Practico\obj\Debug\netcoreapp3.1\Ejercicio 2 Desafio Practico.dll
+C:\Users\bryan\source\repos\Ejercicio 2 Desafio Practico\Ejercicio 2 Desafio Practico\obj\Debug\netcoreapp3.1\Ejercicio 2 Desafio Practico.pdb
+C:\Users\bryan\source\repos\Ejercicio 2 Desafio Practico\Ejercicio 2 Desafio Practico\obj\Debug\netcoreapp3.1\Ejercicio 2 Desafio Practico.genruntimeconfig.cache

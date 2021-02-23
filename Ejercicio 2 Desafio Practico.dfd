@@ -1,0 +1,31 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+146
+Escribir un programa en el cual se ingresen cuatro números, calcular e informar la suma de los dos primeros y el producto del tercera y el cuarto.
+4
+1
+40
+'Ingresar los valores de los 4 números.'
+5
+1
+22
+num1, num2, num3, num4
+6
+2
+4
+suma
+11
+num1 + num2
+8
+producto
+11
+num3 * num4
+4
+1
+76
+'El valor de la suma es : ', suma, '. El valor del producto es : ', producto
+1

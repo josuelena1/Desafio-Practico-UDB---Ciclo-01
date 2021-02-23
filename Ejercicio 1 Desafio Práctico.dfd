@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+154
+Se debe desarrollar un programa que pida el ingreso del precio de un artículo y la cantidad que lleva el cliente. Mostrar lo que debe pagar el comprandor.
+4
+1
+32
+'Ingrese el precio del artículo'
+5
+1
+6
+Precio
+4
+1
+55
+'Ingrese la cantidad de artículos que lleva el cliente'
+5
+1
+8
+Cantidad
+6
+1
+5
+Total
+15
+Precio*Cantidad
+4
+1
+24
+'El total es: $ ', Total
+1
